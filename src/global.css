@@ -1,0 +1,32 @@
+@import url("https://fonts.googleapis.com/css2?family=Assistant:wght@300;400;600;700&display=swap");
+body {
+  margin: 0;
+  line-height: normal;
+}
+:root {
+  /* fonts */
+  --font-assistant: Assistant;
+  --font-inherit: inherit;
+
+  /* font sizes */
+  --font-size-2xs: 11px;
+  --font-size-3xs-4: 9.4px;
+  --font-size-mid-3: 17.3px;
+  --font-size-xl: 20px;
+  --font-size-lg: 18px;
+
+  /* Colors */
+  --color-white: #fff;
+  --color-gray-100: #152745;
+  --color-gray-200: rgba(21, 39, 69, 0.1);
+  --color-gray-300: rgba(21, 39, 69, 0.6);
+  --color-orangered: #fc6603;
+  --color-red: #ff0000;
+  --color-black: #000;
+
+  /* Paddings */
+  --padding-5xl: 24px;
+
+  /* border radiuses */
+  --br-3xs: 10px;
+}
